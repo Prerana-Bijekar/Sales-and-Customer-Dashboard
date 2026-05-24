@@ -69,12 +69,13 @@
 - Customer purchasing trends fluctuated throughout the year, showing seasonal variations in order patterns and sales activity.
 
 🛠 **Tools & Technologies Used:**
--	Tableau Public
--	Excel / CSV Dataset
--	Data Modeling
--	Calculated Fields
--	Parameters & Filters
--	Interactive Dashboard Design
+- Tableau Public
+- CSV Dataset
+- Data Modeling
+- Calculated Fields
+- Parameters & Filters
+- Interactive Dashboard Design
 
 ⚙️ **Technical Documentation:**
 - Detailed technical information is available
+- https://github.com/Prerana-Bijekar/Sales-and-Customer-Dashboard/blob/main/Documentation/technical_details.md
